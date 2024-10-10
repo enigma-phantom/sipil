@@ -1,4 +1,12 @@
-# SIPIL - V1
+# Screenshot Aplikasi
+
+## Before Compressed
+![Before Compress](https://github.com/enigma-phantom/sipil/blob/main/screenshot/before.jpeg)
+
+## After Compressed
+![After Compress](https://github.com/enigma-phantom/sipil/blob/main/screenshot/after.jpeg)
+
+# SIPIL (Sistem Image Pengompresan Interaktif dan Linier) - V1
 
 Aplikasi ini dirancang untuk mengompresi gambar dalam berbagai format (JPEG, PNG, GIF) menggunakan PHP dengan dukungan GD2. Aplikasi ini memungkinkan pengguna untuk mengunggah gambar dan mengatur tingkat kualitas kompresi. Selain itu, aplikasi ini juga menampilkan informasi mengenai file gambar dan folder yang ada.
 
@@ -45,4 +53,4 @@ Aplikasi ini juga menampilkan:
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau ajukan masalah di halaman Issues.
 
 ## Lisensi
-Proyek ini dilisensikan di bawah MIT License.
+Proyek ini dilisensikan di bawah [MIT License](https://github.com/enigma-phantom/sipil/tree/main?tab=MIT-1-ov-file).
