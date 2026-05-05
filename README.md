@@ -1,10 +1,10 @@
 # Screenshot Aplikasi
 
 ## Before Compressed
-![Before Compress](https://github.com/enigma-phantom/sipil/blob/main/screenshot/before.jpeg)
+![Before Compress](https://github.com/enigma-phantom/sipil/blob/main/screenshot/before.jpg)
 
 ## After Compressed
-![After Compress](https://github.com/enigma-phantom/sipil/blob/main/screenshot/after.jpeg)
+![After Compress](https://github.com/enigma-phantom/sipil/blob/main/screenshot/after.jpg)
 
 # SIPIL (Sistem Image Pengompresan Interaktif dan Linier) - V1
 
